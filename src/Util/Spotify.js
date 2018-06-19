@@ -1,5 +1,5 @@
 const clientId = '641cfbd3861043dab5481856d8033577';
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'http://JammmingToons.surge.sh';
 
 let accessToken;
 
